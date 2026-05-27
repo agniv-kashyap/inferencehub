@@ -1,6 +1,6 @@
 # InferenceHub
 
-## Distributed ML Infrastructure Simulation Platform
+## Distributed ML Infrastructure Platform
 
 InferenceHub is a production-style distributed infrastructure platform that simulates how modern AI inference systems work internally.
 
