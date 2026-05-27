@@ -25,6 +25,12 @@ class Task(Base):
         index=True
     )
 
+    developer_email = Column(
+        String,
+        nullable=False,
+        index=True
+    )
+
     status = Column(
         String,
         default="PENDING"
