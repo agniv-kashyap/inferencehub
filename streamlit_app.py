@@ -31,8 +31,7 @@ model = st.sidebar.selectbox(
     "Choose Model",
     [
         "basic-document-summary",
-        "rag-document-analyzer",
-        "contract-risk-analysis"
+        "rag-document-analyzer"
     ]
 )
 
